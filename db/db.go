@@ -9,8 +9,8 @@ import (
 
 	_ "github.com/lib/pq"
 	"github.com/pkg/errors"
-	"github.com/qtumproject/ethereum-block-processor/jsonrpc"
-	"github.com/qtumproject/ethereum-block-processor/log"
+	"github.com/revolutionchain/ethereum-block-processor/jsonrpc"
+	"github.com/revolutionchain/ethereum-block-processor/log"
 	"github.com/schollz/progressbar/v3"
 	"github.com/sirupsen/logrus"
 )

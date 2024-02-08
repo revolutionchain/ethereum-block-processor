@@ -1,4 +1,4 @@
-module github.com/qtumproject/ethereum-block-processor
+module github.com/revolutionchain/ethereum-block-processor
 
 go 1.17
 

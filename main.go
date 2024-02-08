@@ -10,12 +10,12 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/qtumproject/ethereum-block-processor/cache"
-	"github.com/qtumproject/ethereum-block-processor/db"
-	"github.com/qtumproject/ethereum-block-processor/dispatcher"
-	"github.com/qtumproject/ethereum-block-processor/eth"
-	"github.com/qtumproject/ethereum-block-processor/jsonrpc"
-	"github.com/qtumproject/ethereum-block-processor/log"
+	"github.com/revolutionchain/ethereum-block-processor/cache"
+	"github.com/revolutionchain/ethereum-block-processor/db"
+	"github.com/revolutionchain/ethereum-block-processor/dispatcher"
+	"github.com/revolutionchain/ethereum-block-processor/eth"
+	"github.com/revolutionchain/ethereum-block-processor/jsonrpc"
+	"github.com/revolutionchain/ethereum-block-processor/log"
 	"github.com/sirupsen/logrus"
 	"gopkg.in/alecthomas/kingpin.v2"
 )

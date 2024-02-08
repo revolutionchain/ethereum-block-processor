@@ -7,10 +7,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/qtumproject/ethereum-block-processor/cache"
-	"github.com/qtumproject/ethereum-block-processor/jsonrpc"
-	"github.com/qtumproject/ethereum-block-processor/log"
-	"github.com/qtumproject/ethereum-block-processor/workers"
+	"github.com/revolutionchain/ethereum-block-processor/cache"
+	"github.com/revolutionchain/ethereum-block-processor/jsonrpc"
+	"github.com/revolutionchain/ethereum-block-processor/log"
+	"github.com/revolutionchain/ethereum-block-processor/workers"
 	"github.com/sirupsen/logrus"
 )
 

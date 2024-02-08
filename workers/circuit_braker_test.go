@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/qtumproject/ethereum-block-processor/jsonrpc"
-	"github.com/qtumproject/ethereum-block-processor/log"
+	"github.com/revolutionchain/ethereum-block-processor/jsonrpc"
+	"github.com/revolutionchain/ethereum-block-processor/log"
 	"github.com/sony/gobreaker"
 )
 
